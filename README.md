@@ -1,2 +1,2 @@
 # UESTC-Navigation
-百度地图API+Dijkstra算法
+Baidu map API and Dijkstra algorithm
